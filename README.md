@@ -1,6 +1,6 @@
-# Samatrix Data Analysis Internship (June–July 2025)
+# Samatrix Artificial Intelligence Internship (June–July 2025)
 
-This repository contains a collection of 7 data analysis and exploratory projects completed during my **Data Analyst Internship at Samatrix.io**. The work focused on real-world problem solving through statistical analysis, A/B testing, visualization, and business insights using Python.
+This repository contains a collection of 7 data analysis and exploratory projects completed during my **Artificial Intelligence Internship at Samatrix.io**. The work focused on real-world problem solving through statistical analysis, A/B testing, visualization, and business insights using Python.
 
 ---
 
@@ -39,7 +39,7 @@ This repository contains a collection of 7 data analysis and exploratory project
 ---
 
 ## 📌 Internship Overview
-- **Role**: Data Analyst Intern  
+- **Role**: Artificial Intelligence Intern  
 - **Company**: [Samatrix.io](https://www.samatrix.io)  
 - **Duration**: June 2025 – July 2025  
 - Worked on data analysis projects across multiple domains including finance, healthcare, sports, and operations.
